@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Detail Meeting</title>
+
+    <style>
+        body {
+            background-color: #F4F6F7;
+            font-family: Arial;
+        }
+
+        #main_content {
+            /* top: 160px;s */
+            left: 50px;
+            width: 1000px;
+            /* min-height: 500px; */
+            height: auto;
+            background-color: #FFFFFF;
+            position: relative;
+            padding: 10px;
+            padding-left: 15px;
+            border-radius: 3px;
+            box-shadow: 3px 3px 3px 3px grey;
+            /* margin: auto; */
+        }
+
+        #container {
+            width: 970px;
+            /* height: auto; */
+            padding-bottom: 10px;
+            padding-top: 4px;
+            padding-left: 20px;
+            margin: 5px;
+            position: relative;
+            background-color: #F7F7F7;
+            border-radius: 5px;
+        }
+    </style>
+
+</head>
+<body>
+    <div id="main_content">
+        <h1>Jadwal Meeting LFSP2020 BPS Kaltim</h1>
+        <h3>Events Calendar</h3>
+        <br>
+        <hr>
+        <br>
+        <div id="container">
+        
+            <?php 
+            
+                include 'config.php';
+         
+                $id = $_GET['id'];
+                $sql = mysqli_query($host, "SELECT * FROM kalender WHERE id='$id'"); 
+                
+                while($res = mysqli_fetch_array($sql)) { 
+
+                    echo "<p style='font-size:32px'>&nbsp;" . $res['deskripsi'] . "</p>";
+                    $date = date_create($res['tanggal'] . " " . $res['waktu_mulai']);
+                    $date2 = date_create($res['tanggal_selesai'] . " " . $res['waktu_selesai']);
+                    
+                    
+                    echo "<p>&nbsp;" . date_format($date, "d/m/Y") . " s/d ". date_format($date2, "d/m/Y") . " [ " . $res['waktu_mulai'] . " - " . $res['waktu_selesai'] . " ]</p>";
+                    echo "</br>";
+                    echo "<p style='text-transform:lowercase'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Pengguna: </b><a>". $res['pengguna']. "</a></p>";    
+    			    
+                    mysqli_close($host);
+                }
+            
+            ?>
+        </div>
+    </div>
+    <br>
+    <div class="c" style="padding-left:50px;"><p><a href="https://bpskaltim.com/kalender_lfsp">Kembali</a></p></div>
+</body>
+</html>

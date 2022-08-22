@@ -1,0 +1,104 @@
+[14-Feb-2022 06:48:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/u8152743/public_html/kalender_rb/index.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/u8152743/public_html/kalender_rb/index.php on line 91
+[14-Feb-2022 06:52:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/u8152743/public_html/kalender_rb/index.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/u8152743/public_html/kalender_rb/index.php on line 91
+[14-Feb-2022 06:52:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/u8152743/public_html/kalender_rb/index.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/u8152743/public_html/kalender_rb/index.php on line 91
+[14-Feb-2022 06:52:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/u8152743/public_html/kalender_rb/index.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/u8152743/public_html/kalender_rb/index.php on line 91
+[14-Feb-2022 06:52:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/u8152743/public_html/kalender_rb/index.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/u8152743/public_html/kalender_rb/index.php on line 91
+[14-Feb-2022 06:52:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/u8152743/public_html/kalender_rb/index.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/u8152743/public_html/kalender_rb/index.php on line 91
+[14-Feb-2022 06:52:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/u8152743/public_html/kalender_rb/index.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/u8152743/public_html/kalender_rb/index.php on line 91
+[14-Feb-2022 06:52:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/u8152743/public_html/kalender_rb/index.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/u8152743/public_html/kalender_rb/index.php on line 91
+[14-Feb-2022 06:52:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/u8152743/public_html/kalender_rb/index.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/u8152743/public_html/kalender_rb/index.php on line 91
+[14-Feb-2022 06:52:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/u8152743/public_html/kalender_rb/index.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/u8152743/public_html/kalender_rb/index.php on line 91
+[14-Feb-2022 06:53:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/u8152743/public_html/kalender_rb/index.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/u8152743/public_html/kalender_rb/index.php on line 91
+[14-Feb-2022 07:06:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/u8152743/public_html/kalender_rb/index.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/u8152743/public_html/kalender_rb/index.php on line 91
+[14-Feb-2022 07:06:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/u8152743/public_html/kalender_rb/index.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/u8152743/public_html/kalender_rb/index.php on line 91
+[14-Feb-2022 07:06:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/u8152743/public_html/kalender_rb/index.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/u8152743/public_html/kalender_rb/index.php on line 91
+[14-Feb-2022 07:06:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/u8152743/public_html/kalender_rb/index.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/u8152743/public_html/kalender_rb/index.php on line 91
+[14-Feb-2022 07:13:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/u8152743/public_html/kalender_rb/index.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/u8152743/public_html/kalender_rb/index.php on line 91
+[14-Feb-2022 07:17:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/u8152743/public_html/kalender_rb/index.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/u8152743/public_html/kalender_rb/index.php on line 91
+[15-Feb-2022 16:35:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/u8152743/public_html/kalender_rb/index.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/u8152743/public_html/kalender_rb/index.php on line 60
+[15-Feb-2022 16:37:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/u8152743/public_html/kalender_rb/index.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/u8152743/public_html/kalender_rb/index.php on line 60
+[15-Feb-2022 16:37:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/u8152743/public_html/kalender_rb/index.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/u8152743/public_html/kalender_rb/index.php on line 60
+[15-Feb-2022 16:37:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/u8152743/public_html/kalender_rb/index.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/u8152743/public_html/kalender_rb/index.php on line 60
+[15-Feb-2022 16:58:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/u8152743/public_html/kalender_rb/index.php:124
+Stack trace:
+#0 {main}
+  thrown in /home/u8152743/public_html/kalender_rb/index.php on line 124
+[15-Feb-2022 17:01:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/u8152743/public_html/kalender_rb/index.php:212
+Stack trace:
+#0 {main}
+  thrown in /home/u8152743/public_html/kalender_rb/index.php on line 212
+[15-Feb-2022 17:03:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/u8152743/public_html/kalender_rb/index.php:212
+Stack trace:
+#0 {main}
+  thrown in /home/u8152743/public_html/kalender_rb/index.php on line 212
+[08-Apr-2022 06:27:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/u8152743/public_html/kalender_lfsp/index.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/u8152743/public_html/kalender_lfsp/index.php on line 60
+[08-Apr-2022 06:54:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/u8152743/public_html/kalender_lfsp/index.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/u8152743/public_html/kalender_lfsp/index.php on line 60

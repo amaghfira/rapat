@@ -1,0 +1,14 @@
+#calendar {
+    max-width: 1100px;
+    max-height: 600px;
+    margin: 60px auto;
+}
+
+
+
+/* #calendar {
+    border:30px;
+    padding:40px;
+    background-color:white;
+    margin:auto;
+    /* position:relative; */

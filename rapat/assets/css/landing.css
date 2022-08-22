@@ -1,0 +1,20 @@
+#logobps {
+    height: 50px;
+    width: 50px;
+}
+
+.navbar-default{
+    transition:1000ms ease;
+    background:transparent;
+  }
+.navbar-default.scrolled{
+    background:#000;
+}
+.navbar-nav li a:hover, .navbar-nav li.active a {
+    color: cadetblue !important;
+    /* background-color: #fff !important; */
+}
+
+#desc{
+    padding-left: 70px;
+}
